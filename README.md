@@ -1,6 +1,4 @@
-### ✌🏻 Hello world! 
-
-<hr>
+## ✌🏻 Hello world! 
 
 ### My name is Andrey and I'm a Front-end Software Engineer
 
