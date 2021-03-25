@@ -1,6 +1,6 @@
 ## ✌🏻 Hello world! 
 
-### My name is Andrey and I'm a Front-end Software Engineer
+### My name is Andrey and I'm a Front-end Developer
 
 ### 📈 GitHub Stats
 <p align="center">
