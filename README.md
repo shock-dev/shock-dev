@@ -2,6 +2,11 @@
 
 ### My name is Andrey and I'm a Front-end Developer
 
+You can find me here:
+
+* Telegram: [@shock_dev](https://t.me/shock_dev "My telegram")
+* E-mail: shock.work@mail.ru
+
 ### 📈 GitHub Stats
 <p align="center">
   <table>
