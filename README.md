@@ -8,5 +8,4 @@
 
 * Telegram: [@shock_dev](https://t.me/shock_dev "My telegram")
 * Email: shock.work@mail.ru
-* GitLab: [shock-dev](https://gitlab.com/shock-dev)
 * Habr Career: [profile](https://career.habr.com/shock-dev)
